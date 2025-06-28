@@ -1,1 +1,3 @@
 esse arquivo contem informacoes adicionais para git
+
+#comandos estranhos
