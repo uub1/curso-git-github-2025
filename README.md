@@ -2,4 +2,4 @@
 
 Um curso para iniciantes aprenderem a trabalahr com versionamento de codigos e repositories remotos com GitHub.
 
-+ GitFlw + VSCode
++ GitFlow + VSCode
